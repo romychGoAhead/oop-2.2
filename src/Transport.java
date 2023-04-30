@@ -14,7 +14,6 @@ public abstract class Transport implements Serviceable {
     public String getModelName() {
         return modelName;
     }
-
     public int getWheelsCount() {
         return wheelsCount;
     }

@@ -4,5 +4,4 @@ public class Car extends EnginTransport {
         super(modelName, wheelsCount);
 
     }
-
 }
